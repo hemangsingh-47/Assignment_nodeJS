@@ -46,5 +46,5 @@ You can test the API endpoints using the deployed link:
    ```
 
 ## Deployed link
-- **Live Server URL:** [https://assignments-nodejs.onrender.com/](https://assignments-nodejs.onrender.com/)
-- **Postman Documentation:** [https://documenter.getpostman.com/view/50840636/2sBXcEmg8P](https://documenter.getpostman.com/view/50840636/2sBXcEmg8P)
+- **Live Server URL:** https://assignment-nodejs-u0ol.onrender.com
+- **Postman Documentation:** https://documenter.getpostman.com/view/50840788/2sBXcGCeJV
