@@ -2,8 +2,8 @@ const express = require("express");
 
 const cors=require('cors')
 const app = express();
-app.use(express.json());
-
+app.use(express.json()); //This middleware allows your server to read JSON data from request body.
+app.use(cors())
 const students = [
   {
     id: 1,
